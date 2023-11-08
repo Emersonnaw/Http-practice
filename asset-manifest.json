@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Emersonnaw/Http-practice/static/css/main.d555aff7.css",
+    "main.js": "/Emersonnaw/Http-practice/static/js/main.d362d492.js",
+    "index.html": "/Emersonnaw/Http-practice/index.html",
+    "main.d555aff7.css.map": "/Emersonnaw/Http-practice/static/css/main.d555aff7.css.map",
+    "main.d362d492.js.map": "/Emersonnaw/Http-practice/static/js/main.d362d492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d555aff7.css",
+    "static/js/main.d362d492.js"
+  ]
+}
